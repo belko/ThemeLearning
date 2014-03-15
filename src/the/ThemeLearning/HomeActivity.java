@@ -1,5 +1,6 @@
-package the.centro;
+package the.ThemeLearning;
 
+import the.centro.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
