@@ -4,7 +4,10 @@ import the.centro.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+/*
+ * 
+ * 
+ */
 public class HomeActivity extends Activity {
 
 	@Override
